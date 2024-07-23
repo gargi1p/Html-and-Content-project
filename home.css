@@ -1,0 +1,54 @@
+#beg
+{
+    display: flex; 
+    flex-direction: row; 
+}
+
+#searchbar
+{ 
+    margin-top:10px;
+    margin-left: 200px;
+}
+ 
+input
+{
+    width: 500px;
+}
+
+#account
+{
+    margin-left: 300px;
+    font-size: medium;
+}
+
+#login
+{
+    margin-left:20px ;
+}
+
+h1
+{
+    text-align: center;
+}
+
+#hello
+{
+    margin-left: 50%;
+}
+
+#image
+{
+    float: right;
+}
+
+footer
+{
+    text-align: center;
+}
+
+.highlighted-heading {
+    /* Example styling */
+    background-color: yellow;
+    color: black;
+    /* Add more styles as needed */
+}
