@@ -1,4 +1,4 @@
-<h1>About html-and-content-project - </h1>
+<h1>About html-and-content-project  </h1>
 This educational web project is designed to provide comprehensive information about HTML. Built using HTML, CSS, and JavaScript, it allows users to create accounts and log in to access detailed content about HTML, including introductions to HTML tags, attributes, and basic web page structures. The website aims to serve as a valuable resource for anyone looking to learn or enhance their understanding of HTML.
 
 <h1>Snapshots - </h1>
