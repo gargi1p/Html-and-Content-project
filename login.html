@@ -3,22 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOGIN</title>
+    <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>LOGIN</h1>
-    <hr>
-    <form>
     <div>
+    <summary>CREATE ACCOUNT</summary>
+    <hr>
+    <details>
       <h3>Username</h3>
-      <input id="username" type="text" placeholder="Enter Your Username">
+      <input type="text" placeholder="Enter Username">
       <h3>Password</h3>
-      <input id="password" type="Password" placeholder="Enter Your Password">
+      <input id="password" type="Password" placeholder="Enter Password">
+      <h3>Confirm Password</h3>
+      <input id="confirmPassword" type="Password" placeholder="Enter Password Again">
+      <h3>Email Address</h3>
+      <input id="email" type="email" placeholder="Enter email"><br>
+    <button id="submitButton" type="submit">Create Your Account</button> 
+    </details>
     </div>
-    <button id="submit" type="submit">Login Account</button><br><br>
-    <a href="forget_account.html" style="margin-left: 30px;">forget your password?</a>
-    </form>
-    <script src="login.js"></script> 
+
+    <div>
+    <summary>LOGIN</summary>
+    <hr>
+    <details>
+        <form>
+          <h3>Username</h3>
+          <input id="username" type="text" placeholder="Enter Your Username">
+          <h3>Password</h3>
+          <input id="pass" type="Password" placeholder="Enter Your Password"><br>
+        <button id="submit" type="submit">Login Account</button><br><br>
+        <a href="forget_account.html" style="margin-left: 30px;">forget your password?</a>
+        </form>
+    </details>
+    </div>
+  <script src="script.js"></script> 
   </body>
 </html>
