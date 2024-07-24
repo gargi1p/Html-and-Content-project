@@ -5,23 +5,9 @@ This educational web project is designed to provide comprehensive information ab
 
 ![Screenshot 2024-07-24 205616](https://github.com/user-attachments/assets/dff2316d-6286-46ea-b514-5c4333a220c7)
 ![Screenshot 2024-07-24 205634](https://github.com/user-attachments/assets/c54f8634-f0eb-4f1c-9262-e5bafb9744db)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2024-07-20 132915](https://github.com/user-attachments/assets/909a9189-d87a-4248-a572-34f950968410)
+![Screenshot 2024-07-20 132153](https://github.com/user-attachments/assets/244be566-1e8e-41e1-892a-52c9c381a891)
+![Screenshot 2024-07-20 132212](https://github.com/user-attachments/assets/3863dc36-f217-414f-a7e1-0d161c269cf1)
 
 Go live - 
 http://127.0.0.1:5500/login.html
