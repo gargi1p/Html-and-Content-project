@@ -10,5 +10,6 @@ This educational web project is designed to provide comprehensive information ab
 ![Screenshot 2024-07-20 132212](https://github.com/user-attachments/assets/3863dc36-f217-414f-a7e1-0d161c269cf1)
 
 Go live -
-http://127.0.0.1:5500/login.html
+https://gargi1p.github.io/html-and-content-project/
+
 
