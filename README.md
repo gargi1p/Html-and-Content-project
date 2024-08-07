@@ -9,7 +9,6 @@ This educational web project is designed to provide comprehensive information ab
 ![Screenshot 2024-07-20 132153](https://github.com/user-attachments/assets/244be566-1e8e-41e1-892a-52c9c381a891)
 ![Screenshot 2024-07-20 132212](https://github.com/user-attachments/assets/3863dc36-f217-414f-a7e1-0d161c269cf1)
 
-Go live -
-https://gargi1p.github.io/html-and-content-project/
+
 
 
