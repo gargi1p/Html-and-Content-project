@@ -27,7 +27,7 @@ function validateForm(form) {
    }
    
     // If all validations pass, redirect to home page
-    window.location.href = "home.html";
+    window.location.href = "index.html";
     return true;
   }
   
@@ -47,7 +47,7 @@ function validateForm(form) {
     if (password === "" || username === "") {
         alert("Please fill both username and password!");
     } else {
-        window.location.href = "home.html"
+        window.location.href = "index.html"
     }
   }
   document.getElementById("submit").addEventListener("click", function(event) {
